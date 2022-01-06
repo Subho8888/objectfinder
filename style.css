@@ -1,0 +1,16 @@
+
+.heading{
+font-size: 32px;
+width: 100%;
+margin: 0;
+}
+#start,#status,#found_or_not{
+    font-size: 18px;
+}
+
+canvas{
+    border-radius: 10px;
+    border: 2px solid aqua;
+    box-shadow: 5px 5px 5px darkslateblue;
+    margin-top: 130px;
+}
